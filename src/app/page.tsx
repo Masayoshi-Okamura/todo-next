@@ -1,7 +1,7 @@
 "use client";
 
 import React, { useState, useEffect } from 'react';
-import { Trash2, Checkbox } from 'lucide-react';
+import { Trash2, CheckSquare } from 'lucide-react';
 
 type Category = '仕事' | 'プライベート' | 'その他' | 'すべて';
 
