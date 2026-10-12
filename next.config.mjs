@@ -2,6 +2,7 @@
 const nextConfig = {
   output: 'export',
   basePath: '/todo-next',
+  assetPrefix: '/todo-next',
   images: {
     unoptimized: true,
   },
